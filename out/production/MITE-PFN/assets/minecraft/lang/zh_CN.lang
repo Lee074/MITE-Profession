@@ -1,0 +1,14 @@
+item.itemsforup/level1.name=银升级核心
+item.itemsforup/level1copy.name=铜升级核心
+item.itemsforup/level1copies.name=金升级核心
+item.itemsforup/level2.name=锈铁升级核心
+item.itemsforup/level3.name=铁升级核心
+item.itemsforup/level4.name=远古金属升级核心
+item.itemsforup/level5.name=秘银升级核心
+item.itemsforup/level6.name=艾德曼升级核心
+
+point.pfnminer=矿工
+point.pfnswords=剑士
+
+key.personView=人称切换
+key.PFNSkills=职业技能
